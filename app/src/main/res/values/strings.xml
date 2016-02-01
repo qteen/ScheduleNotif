@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ScheduleNotif</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="constraints">Settings</string>
+    <string name="connectivity">Connectivity</string>
+    <string name="any">Any</string>
+    <string name="unmetered">Unmetered</string>
+    <string name="timing">Timing</string>
+    <string name="delay">Delay</string>
+    <string name="charging_caption">Is Charging</string>
+    <string name="charging_text">Requires device pluged in</string>
+    <string name="idle_caption">Is Idle</string>
+    <string name="seconds">seconds</string>
+    <string name="minutes">minutes</string>
+</resources>
